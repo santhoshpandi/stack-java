@@ -15,4 +15,6 @@ here we can perform the various stack operations like
   open terminal/command-prompt or java editor
   
   javac stack.java
+  
+  
   java stack
